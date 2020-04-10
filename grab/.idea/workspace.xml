@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="04a0c074-329a-492a-8e68-f0bd611a9686" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZshI1tvfSQWEppdM4w8v6yCQS6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../django rest framework" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="04a0c074-329a-492a-8e68-f0bd611a9686" name="Default Changelist" comment="" />
+      <created>1585633625894</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585633625894</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="393" y="89" key="#Inspections" timestamp="1585639941983">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state x="393" y="89" key="#Inspections/0.0.1603.862@0.0.1603.862" timestamp="1585639941983" />
+    <state x="393" y="89" key="#Python" timestamp="1585641295189">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state x="393" y="89" key="#Python/0.0.1603.862@0.0.1603.862" timestamp="1585641295189" />
+    <state x="580" y="172" key="FileChooserDialogImpl" timestamp="1585761169438">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state x="580" y="172" key="FileChooserDialogImpl/0.0.1603.862@0.0.1603.862" timestamp="1585761169438" />
+    <state x="309" y="73" key="SettingsEditor" timestamp="1585645217445">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state x="309" y="73" key="SettingsEditor/0.0.1603.862@0.0.1603.862" timestamp="1585645217445" />
+    <state x="500" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1586020736112">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state x="500" y="254" key="com.intellij.ide.util.TipDialog/0.0.1603.862@0.0.1603.862" timestamp="1586020736112" />
+    <state x="280" y="326" width="600" height="536" key="find.popup" timestamp="1585813771365">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state x="280" y="326" width="600" height="536" key="find.popup/0.0.1603.862@0.0.1603.862" timestamp="1585813771365" />
+    <state x="464" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1585669306245">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state x="464" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1603.862@0.0.1603.862" timestamp="1585669306245" />
+  </component>
+</project>
