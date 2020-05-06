@@ -29,6 +29,3 @@ urlpatterns = [
     url("", views.home, name="home"),
 
 ]
-#api key=AIzaSyBrfo50mWLoroZ0NgL-dgROIUYU5Y3WlTA#
-#client id=825295627687-a2vnp7scvq6ed4354jg4sufvgb0snkii.apps.googleusercontent.com#
-#scret=RiSorl5tAK8Jtm0rw-PU1CRU#
